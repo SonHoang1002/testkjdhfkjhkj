@@ -1,0 +1,33 @@
+[
+    {
+        "id":"5",
+        "hoten":"hoang van a",
+        "tuoi":334,
+        "cc":"3487983",
+        "lienhe":{
+            "dt":"837475734827",
+            "email":"hva@gmail.com",
+            "diachi":"thanh hoa"
+        },
+        "npt":[
+            "97",
+            "98",
+            "99"
+        ]
+    },{
+        "id":"6",
+        "hoten":"pham diem quynh",
+        "tuoi":21,
+        "cc":"4563323",
+        "lienhe":{
+            "dt":"34535342",
+            "email":"pdq@gmail.com",
+            "diachi":"thanh hoa"
+        },
+        "npt":[
+            "99",
+            "100",
+            "101"
+        ]
+    }
+]
